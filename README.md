@@ -1,4 +1,4 @@
-# 🍔 PROJECT PROPOSAL : HALKABITE 🚀
+# 🍔 PROJECT PROPOSAL : HALKABITE 🍟
 
 ## 📜 Title
 **HALKABITE – A Full-Stack Food Delivery Website using MERN Stack**
@@ -9,7 +9,7 @@
 The system connects customers with nearby restaurants 🏪 and provides a smooth experience for:
 - 🍕 Browsing food
 - 🛒 Adding items to the cart
-- 💳 Completing payments securely through **Stripe**
+- 💳 Completing payments securely through **Bkash, & COD**
 
 The application also includes a **powerful Admin Dashboard** 🛠️ where food items, customer orders, and sales analytics can be efficiently managed. 📈
 
@@ -20,7 +20,7 @@ The application also includes a **powerful Admin Dashboard** 🛠️ where food 
 ### 👤 User Features:
 1.  **Browse food items by category** 🍔🍟
 2.  **Add to cart and place orders** 🛍️✅
-3.  **Pay securely via Stripe** 🔒💸
+3.  **Pay securely via Stripe, Bkash, & COD** 🔒💸
 4.  **Responsive design for mobile and desktop** 📱💻
 
 ### 👩‍💻 Admin Features:
@@ -37,7 +37,7 @@ The application also includes a **powerful Admin Dashboard** 🛠️ where food 
 | **Frontend** | React.js, HTML, CSS | ⚛️ 🎨 |
 | **Backend** | Node.js, Express.js | 🟢 🚂 |
 | **Database** | MongoDB | 🍃 |
-| **Payment Gateway** | Stripe | 💳 |
+| **Payment Gateway** | Bkash, COD | 📱 |
 
 ---
 
